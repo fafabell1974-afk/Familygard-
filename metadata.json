@@ -1,0 +1,7 @@
+{
+  "name": "PulsePC Architect - SaaS Diagnostic & Réparation PC",
+  "description": "Plateforme d'architecture technique et console interactive du SaaS d'analyse, d'optimisation et de réparation Windows (Agent .NET 8, Supabase, Stripe, Recommandations Matérielles).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
